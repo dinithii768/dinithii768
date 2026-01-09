@@ -82,12 +82,6 @@ I love being the gatekeeper of quality 🚦.
 </thead>
 <tbody>
 
-<tr>
-<td>Manual Testing</td>
-<td>
-Test Case Design, Test Scenarios, Regression Testing, Smoke Testing, UAT
-</td>
-</tr>
 
 <tr>
 <td>Automation Testing</td>
@@ -101,7 +95,6 @@ Test Case Design, Test Scenarios, Regression Testing, Smoke Testing, UAT
 <td>API Testing</td>
 <td>
 <img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/Postman.png" style="width:5%;">
-REST API Testing
 </td>
 </tr>
 
@@ -112,12 +105,6 @@ REST API Testing
 </td>
 </tr>
 
-<tr>
-<td>Performance Testing</td>
-<td>
-<img src="https://github.com/sachilz/Skill_Icon/blob/main/Skills/JMeter.png" style="width:5%;">
-</td>
-</tr>
 
 <tr>
 <td>Version Control</td>
