@@ -135,10 +135,6 @@ REST API Testing
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shardha-pathirana&theme=midnight-purple&show_icons=true" />
-</p>
 
 <!--- Horizontal line -->
 <p align="center">
