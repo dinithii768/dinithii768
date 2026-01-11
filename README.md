@@ -9,7 +9,7 @@
 
 <h1 align="center">
 Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
-I'm Shardha Pathirana
+I'm Sharadha Pathirana
 </h1>
 
 <p>
